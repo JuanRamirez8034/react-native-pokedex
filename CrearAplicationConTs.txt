@@ -1,0 +1,2 @@
+// Correr el comando 
+npx create-expo-app pokedex --template expo-template-blank-typescript
