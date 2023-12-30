@@ -18,7 +18,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "es.juan-ramirez.pokedex",
+      "package": "com.juanramirez.pokedex",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
